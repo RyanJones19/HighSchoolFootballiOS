@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyiosworkshop-dev-151706-authRole",
+      "UnauthRoleArn": "arn:aws:iam::111410645874:role/amplify-amplifyiosworkshop-dev-151706-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::111410645874:role/amplify-amplifyiosworkshop-dev-151706-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplifyiosworkshop-dev-151706-deployment",
+      "UnauthRoleName": "amplify-amplifyiosworkshop-dev-151706-unauthRole",
+      "StackName": "amplify-amplifyiosworkshop-dev-151706",
+      "StackId": "arn:aws:cloudformation:us-west-2:111410645874:stack/amplify-amplifyiosworkshop-dev-151706/f09f41f0-74f2-11ed-adba-060e160a3a8f",
+      "AmplifyAppId": "d3rcf993u4cpam"
+    },
+    "categories": {
+      "auth": {
+        "amplifyiosworkshopd6c09055": {}
+      },
+      "api": {
+        "amplifyiosworkshop": {}
+      },
+      "storage": {
+        "amplifyiosworkshop": {}
+      }
+    }
+  }
+}

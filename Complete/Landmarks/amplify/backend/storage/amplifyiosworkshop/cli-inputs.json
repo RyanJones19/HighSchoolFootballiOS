@@ -1,0 +1,12 @@
+{
+  "resourceName": "amplifyiosworkshop",
+  "policyUUID": "12208bb0",
+  "bucketName": "amplifyiosworkshop4fa7e65b19cd4c9bb63795522fe90",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

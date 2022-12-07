@@ -1,0 +1,22 @@
+type LandmarkData
+    @model
+    @auth(rules: [ 
+      { allow: private }
+    ])
+{
+    id: ID!
+    name: String!
+    category: String
+    city: String
+    state: String
+    isFeatured: Boolean
+    isFavorite: Boolean
+    park: String
+    coordinates: CoordinateData
+    imageName: String
+}
+
+type CoordinateData {
+    longitude: Float
+    latitude: Float
+}
